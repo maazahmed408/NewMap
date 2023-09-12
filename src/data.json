@@ -1,0 +1,65 @@
+{
+    "items": [
+      {
+        "id": 6842,
+        "depotId": 335,
+        "journeyTime": 372,
+        "shift": 0,
+        "hrKm": 0.33010753,
+        "hrSoc": 0.14061828,
+        "vehicleId": "VM1_V1",
+        "routeId": "67-1",
+        "tripId": "1",
+        "nextStop": "STOPA",
+        "batteryCapacity": "305.16",
+        "odometer": null,
+        "soc": "98.0",
+        "availableRange": "122.8",
+        "lastSoc": "98.0",
+        "arrivalTime": "10:33:00",
+        "deptTime": null,
+        "atDate": null
+      },
+      {
+        "id": 72831,
+        "depotId": 335,
+        "journeyTime": 372,
+        "shift": 0,
+        "hrKm": 0.33010753,
+        "hrSoc": 0.14061828,
+        "vehicleId": "VM1_V2",
+        "routeId": "67-1",
+        "tripId": "1",
+        "nextStop": "STOPA",
+        "batteryCapacity": "305.16",
+        "odometer": null,
+        "soc": "57.0",
+        "availableRange": "122.8",
+        "lastSoc": "98.0",
+        "arrivalTime": "10:33:00",
+        "deptTime": null,
+        "atDate": null
+      },
+      {
+        "id": 6841232,
+        "depotId": 335,
+        "journeyTime": 372,
+        "shift": 0,
+        "hrKm": 0.33010753,
+        "hrSoc": 0.14061828,
+        "vehicleId": "VM1_V3",
+        "routeId": "67-1",
+        "tripId": "1",
+        "nextStop": "STOPA",
+        "batteryCapacity": "305.16",
+        "odometer": null,
+        "soc": "77.0",
+        "availableRange": "122.8",
+        "lastSoc": "98.0",
+        "arrivalTime": "10:33:00",
+        "deptTime": null,
+        "atDate": null
+      }
+    ]
+  }
+  
